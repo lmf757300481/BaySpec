@@ -1,1 +1,0 @@
-Open Device Successfully!Device Count: 1Device Index: 0S/N: F1480723Pixel Count: 512HW Version: 10000006FW Version: 10000020DLL Version: 21502063
