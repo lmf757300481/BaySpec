@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/11/13 星期二 16:54:06。
+     1>项目“C:\Users\liumi\Desktop\新建文件夹\Sense2020Dll 2.0.6.3 VC++ Tester\MyDllTester.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\MyDllTester.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         MyDllTester.vcxproj -> C:\Users\liumi\Desktop\新建文件夹\Sense2020Dll 2.0.6.3 VC++ Tester\.\Debug\MyDllTester.exe
+       BscMake:
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\MyDllTester.unsuccessfulbuild”。
+         正在对“.\Debug\MyDllTester.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\liumi\Desktop\新建文件夹\Sense2020Dll 2.0.6.3 VC++ Tester\MyDllTester.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.30

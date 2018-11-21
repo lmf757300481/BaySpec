@@ -1,0 +1,279 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 英语(美国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\MyDllTester.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\MyDllTester.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG 0, 0, 235, 55
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About MyDllTester"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "MyDllTester Version 1.0",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2008",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_MYDLLTESTER_DIALOG DIALOGEX 0, 0, 444, 446
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "MyDllTester"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Exit",IDOK,7,338,84,20
+    PUSHBUTTON      "Open Device",IDC_BUTTON_INIT,7,7,84,20
+    PUSHBUTTON      "Get Snapshot Spectrum",IDC_BUTTON_GET_SPECTRUM,7,157,84,20
+    PUSHBUTTON      "Close Device",IDC_BUTTON_CLOSE,7,32,84,20
+    LISTBOX         IDC_LIST_DATA,213,7,224,432,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Set Integration Time",IDC_BUTTON_SET_TIME,7,107,84,20
+    EDITTEXT        IDC_EDIT_INTEGRATION_TIME,97,56,105,13,ES_AUTOHSCROLL
+    LTEXT           "Integration Time (us):",IDC_STATIC,97,41,104,9
+    PUSHBUTTON      "Get Device Info",IDC_BUTTON_GET_DEV_INFO,7,82,84,20
+    PUSHBUTTON      "Get Temperature",IDC_BUTTON_GET_TEMP,7,132,84,20
+    PUSHBUTTON      "Clear List",IDC_BUTTON_CLEAR,7,312,84,20
+    PUSHBUTTON      "Load Calib Data",IDC_BUTTON_LOAD_CALIB,7,182,84,20
+    PUSHBUTTON      "Get Wavelength",IDC_BUTTON_GET_WL,7,207,84,20
+    PUSHBUTTON      "Start Run Acquisition",IDC_BUTTON_START_RUN,97,207,105,20
+    PUSHBUTTON      "Stop Run Acquisition",IDC_BUTTON_STOP_RUN,97,232,105,20
+    PUSHBUTTON      "Get Last Spectra Info",IDC_BUTTON_GET_CURRENT_SPECTRA,97,257,105,20
+    LTEXT           "Constant Acquisition Mode:",IDC_STATIC,97,173,89,11
+    EDITTEXT        IDC_EDIT_LINE_RATE,97,90,105,13,ES_AUTOHSCROLL
+    LTEXT           "Line Rate (Hz):",IDC_STATIC,97,75,104,9
+    PUSHBUTTON      "Get Peaks",IDC_BUTTON_GET_PEAK,7,232,84,20
+    PUSHBUTTON      "Get Index Spectra Info",IDC_BUTTON_GET_INDEX_SPECTRA,97,308,105,20
+    EDITTEXT        IDC_EDIT_LINE_INDEX,138,287,63,13,ES_AUTOHSCROLL
+    LTEXT           "Line Index:",IDC_STATIC,97,288,41,9
+    COMBOBOX        IDC_COMBO_ACQUISITION_MODE,97,187,105,61,CBS_DROPDOWN | WS_TABSTOP
+    PUSHBUTTON      "Set Optical Switch",IDC_BUTTON_SET_OP_SW,7,257,84,20
+    EDITTEXT        IDC_EDIT_NOISE_THRESHOLD,97,124,105,13,ES_AUTOHSCROLL
+    LTEXT           "Noise Threshold for Peak Search:",IDC_STATIC,97,109,108,9
+    PUSHBUTTON      "Select Device",IDC_BUTTON_SELECT_DEVICE,7,57,84,20
+    EDITTEXT        IDC_EDIT_DEVICE_INDEX,97,22,105,13,ES_AUTOHSCROLL
+    LTEXT           "Device Index:",IDC_STATIC,97,7,104,9
+    CONTROL         "Use Threshold Profile",IDC_CHECK_THRESHOLD_PROFILE,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,368,83,11
+    LTEXT           "Optical Switch State:",IDC_STATIC,96,141,108,9
+    COMBOBOX        IDC_COMBO_OP_SW,97,155,105,61,CBS_DROPDOWN | WS_TABSTOP
+    CONTROL         "External Synch Triggering",IDC_RADIO_EXT_TRIG_SYNCH,
+                    "Button",BS_AUTORADIOBUTTON | WS_GROUP,97,346,99,9
+    CONTROL         "External Asynch Triggering",IDC_RADIO_EXT_TRIG_ASYNCH,
+                    "Button",BS_AUTORADIOBUTTON,97,362,101,9
+    CONTROL         "Disable External Triggering",IDC_RADIO_EXT_TRIG_DISABLE,
+                    "Button",BS_AUTORADIOBUTTON,97,378,101,9
+    GROUPBOX        "External Trigger Timing Mode",IDC_STATIC,93,334,114,61
+    GROUPBOX        "Triggering Mode",IDC_STATIC,93,399,114,40
+    CONTROL         "Level",IDC_RADIO_EXT_TRIG_LEVEL,"Button",BS_AUTORADIOBUTTON | WS_GROUP,98,411,62,8
+    CONTROL         "Rising Edge",IDC_RADIO_EXT_TRIG_EDGE,"Button",BS_AUTORADIOBUTTON,98,425,62,8
+    PUSHBUTTON      "Set GPIO",IDC_BUTTON_SET_GPIO,7,284,84,20
+    EDITTEXT        IDC_EDIT_GPIO,7,396,65,14,ES_AUTOHSCROLL
+    LTEXT           "GPIO State (0 - 255)",IDC_STATIC,7,383,72,9
+    PUSHBUTTON      "Save to Txt File",IDC_BUTTON_SAVE,15,417,75,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "FileDescription", "MyDllTester MFC Application"
+            VALUE "FileVersion", "1, 0, 0, 1"
+            VALUE "InternalName", "MyDllTester"
+            VALUE "LegalCopyright", "Copyright (C) 2008"
+            VALUE "OriginalFilename", "MyDllTester.EXE"
+            VALUE "ProductName", "MyDllTester Application"
+            VALUE "ProductVersion", "1, 0, 0, 1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_MYDLLTESTER_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 437
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 439
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_MYDLLTESTER_DIALOG DLGINIT
+BEGIN
+    IDC_COMBO_ACQUISITION_MODE, 0x403, 16, 0
+0x3a30, 0x6152, 0x2077, 0x6144, 0x6174, 0x4f20, 0x6c6e, 0x0079, 
+    IDC_COMBO_ACQUISITION_MODE, 0x403, 25, 0
+0x3a31, 0x6550, 0x6b61, 0x4920, 0x666e, 0x206f, 0x5028, 0x7869, 0x6c65, 
+0x2029, 0x6e4f, 0x796c, "\000" 
+    IDC_COMBO_ACQUISITION_MODE, 0x403, 22, 0
+0x3a32, 0x6550, 0x6b61, 0x4920, 0x666e, 0x206f, 0x5728, 0x294c, 0x4f20, 
+0x6c6e, 0x0079, 
+    IDC_COMBO_ACQUISITION_MODE, 0x403, 32, 0
+0x3a33, 0x6152, 0x2077, 0x6144, 0x6174, 0x2020, 0x202b, 0x6550, 0x6b61, 
+0x4920, 0x666e, 0x206f, 0x5028, 0x7869, 0x6c65, 0x0029, 
+    IDC_COMBO_ACQUISITION_MODE, 0x403, 28, 0
+0x3a34, 0x6152, 0x2077, 0x6144, 0x6174, 0x2b20, 0x5020, 0x6165, 0x206b, 
+0x6e49, 0x6f66, 0x2820, 0x4c57, 0x0029, 
+    IDC_COMBO_OP_SW, 0x403, 10, 0
+0x6843, 0x6e61, 0x656e, 0x206c, 0x0031, 
+    IDC_COMBO_OP_SW, 0x403, 10, 0
+0x6843, 0x6e61, 0x656e, 0x206c, 0x0032, 
+    IDC_COMBO_OP_SW, 0x403, 10, 0
+0x6843, 0x6e61, 0x656e, 0x206c, 0x0033, 
+    IDC_COMBO_OP_SW, 0x403, 10, 0
+0x6843, 0x6e61, 0x656e, 0x206c, 0x0034, 
+    IDC_COMBO_OP_SW, 0x403, 18, 0
+0x7541, 0x6f74, 0x4320, 0x6168, 0x6e6e, 0x6c65, 0x5320, 0x6163, 0x006e, 
+
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDS_ABOUTBOX            "&About MyDllTester..."
+END
+
+#endif    // 英语(美国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\MyDllTester.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,72 @@
+﻿生成启动时间为 2018/11/13 星期二 17:07:43。
+     1>项目“C:\Users\liumi\Desktop\新建文件夹\Sense2020Dll 2.0.6.3 VC++ Tester\WirelessDetection\WirelessDetection.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\WirelessDetection.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       GenerateTargetFrameworkMonikerAttribute:
+       正在跳过目标“GenerateTargetFrameworkMonikerAttribute”，因为所有输出文件相对于输入文件而言都是最新的。
+       ClCompile:
+         所有输出均为最新。
+         F:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _MBCS /D _AFXDLL /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\WirelessDetection.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         F:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _MBCS /D _AFXDLL /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\WirelessDetection.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp WirelessDetection.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         WirelessDetection.cpp
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(6): error C2039: “ComponentModel”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(6): error C2871: “ComponentModel”: 具有该名称的命名空间不存在
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(8): error C3083: “Windows”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(8): error C2039: “Forms”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(8): error C2871: “Forms”: 具有该名称的命名空间不存在
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(9): error C2039: “Data”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(9): error C2871: “Data”: 具有该名称的命名空间不存在
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(10): error C2039: “Drawing”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(10): error C2871: “Drawing”: 具有该名称的命名空间不存在
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15): error C3083: “Windows”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15): error C3083: “Forms”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(16): error C2039: “Form”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(16): error C2504: “Form”: 未定义基类
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(42): error C3083: “ComponentModel”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(42): error C2039: “Container”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(42): error C2143: 语法错误 : 缺少“;”(在“^”的前面)
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(32): error C2065: “components”: 未声明的标识符
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(34): error C2065: “components”: 未声明的标识符
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(34): error C2541: “delete”: 不能删除不是指针的对象
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(51): error C2039: “SuspendLayout”: 不是“WirelessDetection::Form1”的成员
+                 c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15) : 参见“WirelessDetection::Form1”的声明
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(55): error C2039: “AutoScaleDimensions”: 不是“WirelessDetection::Form1”的成员
+                 c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15) : 参见“WirelessDetection::Form1”的声明
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(55): error C3083: “Drawing”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(55): error C2039: “SizeF”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(55): error C3861: “SizeF”: 找不到标识符
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(56): error C2039: “AutoScaleMode”: 不是“WirelessDetection::Form1”的成员
+                 c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15) : 参见“WirelessDetection::Form1”的声明
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(56): error C3083: “Windows”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(56): error C3083: “Forms”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(56): error C3083: “AutoScaleMode”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(56): error C2039: “Font”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(56): error C2065: “Font”: 未声明的标识符
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(57): error C2039: “ClientSize”: 不是“WirelessDetection::Form1”的成员
+                 c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15) : 参见“WirelessDetection::Form1”的声明
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(57): error C3083: “Drawing”:“::”左侧的符号必须是一种类型
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(57): error C2039: “Size”: 不是“System”的成员
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(57): error C3861: “Size”: 找不到标识符
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(58): error C2039: “Name”: 不是“WirelessDetection::Form1”的成员
+                 c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15) : 参见“WirelessDetection::Form1”的声明
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(59): error C2882: “Text”: 在表达式中非法使用命名空间标识符
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(60): error C2039: “Load”: 不是“WirelessDetection::Form1”的成员
+                 c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15) : 参见“WirelessDetection::Form1”的声明
+     1>c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(61): error C2039: “ResumeLayout”: 不是“WirelessDetection::Form1”的成员
+                 c:\users\liumi\desktop\新建文件夹\sense2020dll 2.0.6.3 vc++ tester\wirelessdetection\Form1.h(15) : 参见“WirelessDetection::Form1”的声明
+     1>WirelessDetection.cpp(12): error C2653: “Application”: 不是类或命名空间名称
+     1>WirelessDetection.cpp(12): error C3861: “EnableVisualStyles”: 找不到标识符
+     1>WirelessDetection.cpp(13): error C2653: “Application”: 不是类或命名空间名称
+     1>WirelessDetection.cpp(13): error C3861: “SetCompatibleTextRenderingDefault”: 找不到标识符
+     1>WirelessDetection.cpp(16): error C2653: “Application”: 不是类或命名空间名称
+     1>WirelessDetection.cpp(16): error C3861: “Run”: 找不到标识符
+         正在生成代码...
+     1>已完成生成项目“C:\Users\liumi\Desktop\新建文件夹\Sense2020Dll 2.0.6.3 VC++ Tester\WirelessDetection\WirelessDetection.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.93
