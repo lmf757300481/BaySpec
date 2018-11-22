@@ -1,0 +1,72 @@
+// 本题为考试多行输入输出规范示例，无需提交，不计分。
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+         int m = sc.nextInt();
+         int k = sc.nextInt();
+         if(n<=0||(m<=0||k<=0))
+         {
+             return -1;
+         }
+        long count= combination(n,m+n);
+        StringBuilder[] strs=new StringBuilder[count];
+       for(long i=0;i<count;i++)
+        {
+            for(long j=0;i<m+n;j++){
+                StringBuilder.append();
+            }
+        }
+      
+       
+    }
+    6 3
+1 3 5 2 5 4
+1 1 0 1 0 0
+    
+	
+	1，散装（400份的） 826.5元 
+	2， 桶装洗发水沐浴露1桶  44元
+	3，桶装沐浴露1桶 85元
+	4 壁装沐浴露洗发水盒子2个 70元
+	5 床垫4床   318元
+	
+	共计1343.5元
+    private static long factorial(int n) {
+        long sum = 1;
+        while( n > 0 ) {
+            sum = sum * n--;
+        }
+        return sum;
+    }
+    
+     public static long arrangement(int m, int n) {
+        return m <= n ? factorial(n) / factorial(n - m) : 0;
+    }
+    
+     public static long combination(int m, int n) {
+        return m <= n ? factorial(n) / (factorial(m) * factorial((n - m))) : 0;
+    }
+    
+    
+}
+
+   
+            if(i<(n-k)&& t[i]==1)
+            {
+                x[i]=1;
+                x[i+1]=1;
+                x[i+2]=1;
+            }
+            if(i==(n-2)&& t[i]==1)
+            {
+                x[i]=1;
+                x[i+1]=1;
+               
+            }
+            if(i==(n-1)&& t[i]==1)
+            {
+                x[i]=1;                            
+            }

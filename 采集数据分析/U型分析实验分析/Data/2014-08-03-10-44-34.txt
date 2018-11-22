@@ -1,0 +1,2004 @@
+2014_08_03 10_42_41
+第1组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67910.032
+第2组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67903.191
+第3组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67912.769
+第4组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67928.385
+第5组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67929.631
+第6组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67910.676
+第7组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67906.402
+第8组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67932.915
+第9组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67874.446
+第10组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67941.208
+第11组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67960.300
+第12组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67933.349
+第13组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67914.467
+第14组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67921.284
+第15组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67912.218
+第16组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67927.792
+第17组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67944.144
+第18组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67895.965
+第19组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67953.489
+第20组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67944.072
+第21组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67900.531
+第22组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67965.520
+第23组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67909.591
+第24组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67925.860
+第25组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67938.237
+第26组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67889.694
+第27组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67936.351
+第28组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67927.354
+第29组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67925.118
+第30组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67938.582
+第31组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67949.605
+第32组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67934.627
+第33组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67994.764
+第34组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67974.884
+第35组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67943.272
+第36组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67962.154
+第37组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67941.331
+第38组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67974.317
+第39组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67944.078
+第40组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67920.954
+第41组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67939.709
+第42组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67942.643
+第43组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67937.467
+第44组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67928.744
+第45组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67911.003
+第46组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67927.679
+第47组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67937.585
+第48组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67961.199
+第49组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67894.406
+第50组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67946.766
+第51组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67956.265
+第52组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67929.270
+第53组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67944.991
+第54组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67924.234
+第55组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67933.542
+第56组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67918.298
+第57组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67927.616
+第58组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67947.145
+第59组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67922.004
+第60组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67918.932
+第61组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67941.390
+第62组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67920.106
+第63组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67952.427
+第64组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67919.167
+第65组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67941.885
+第66组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67953.052
+第67组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67934.762
+第68组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67972.784
+第69组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67911.639
+第70组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67938.126
+第71组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67941.462
+第72组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67916.316
+第73组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67926.206
+第74组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67917.477
+第75组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67955.910
+第76组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67946.441
+第77组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67935.007
+第78组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67925.509
+第79组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67928.133
+第80组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.268
+第81组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67938.943
+第82组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67902.896
+第83组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.452
+第84组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67956.570
+第85组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67984.853
+第86组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67950.963
+第87组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67977.733
+第88组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67973.414
+第89组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67934.440
+第90组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67964.480
+第91组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67916.026
+第92组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67990.592
+第93组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67940.788
+第94组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.061
+第95组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67987.251
+第96组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67967.483
+第97组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.391
+第98组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67949.181
+第99组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67963.457
+第100组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.710
+第101组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67946.875
+第102组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67938.012
+第103组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67920.359
+第104组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67978.012
+第105组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67931.934
+第106组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67956.041
+第107组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67967.380
+第108组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67967.049
+第109组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67969.274
+第110组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67965.483
+第111组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67931.005
+第112组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67954.344
+第113组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67940.446
+第114组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67963.490
+第115组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67972.514
+第116组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67962.803
+第117组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67954.341
+第118组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67967.680
+第119组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67986.593
+第120组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67954.994
+第121组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67964.443
+第122组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67967.104
+第123组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67949.108
+第124组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.163
+第125组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.799
+第126组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67973.792
+第127组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.189
+第128组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67959.919
+第129组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67955.408
+第130组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67979.050
+第131组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67980.041
+第132组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67984.900
+第133组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67979.492
+第134组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67960.545
+第135组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67958.164
+第136组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67945.737
+第137组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67982.442
+第138组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68004.976
+第139组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67940.927
+第140组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67986.072
+第141组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67944.287
+第142组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68007.262
+第143组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67986.325
+第144组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67960.561
+第145组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67974.137
+第146组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67962.239
+第147组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67936.886
+第148组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68003.382
+第149组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67964.779
+第150组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67955.321
+第151组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67940.934
+第152组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67994.153
+第153组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.742
+第154组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67967.045
+第155组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67983.760
+第156组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67964.661
+第157组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67959.867
+第158组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67987.704
+第159组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67972.819
+第160组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67976.061
+第161组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67995.681
+第162组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67991.965
+第163组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67987.261
+第164组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67995.524
+第165组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68008.463
+第166组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67987.487
+第167组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67995.791
+第168组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68009.597
+第169组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67973.072
+第170组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67994.297
+第171组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67993.163
+第172组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68003.032
+第173组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68030.147
+第174组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.367
+第175组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68011.400
+第176组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67977.846
+第177组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67988.135
+第178组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68030.107
+第179组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67977.163
+第180组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67963.970
+第181组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67966.011
+第182组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67987.868
+第183组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68003.800
+第184组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67994.133
+第185组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67990.769
+第186组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68025.064
+第187组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.092
+第188组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68005.937
+第189组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.510
+第190组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68012.521
+第191组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67980.536
+第192组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67974.497
+第193组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67966.415
+第194组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67982.951
+第195组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67977.843
+第196组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68011.835
+第197组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68005.097
+第198组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68025.903
+第199组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67977.959
+第200组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67976.079
+第201组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68005.462
+第202组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67988.674
+第203组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68026.397
+第204组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67979.642
+第205组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.712
+第206组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67993.645
+第207组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68023.472
+第208组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.007
+第209组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68006.313
+第210组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67955.674
+第211组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.333
+第212组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68005.022
+第213组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67945.561
+第214组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67989.278
+第215组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67989.629
+第216组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67971.141
+第217组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68033.581
+第218组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67981.979
+第219组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68010.497
+第220组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68004.068
+第221组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68039.058
+第222组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68009.761
+第223组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68054.733
+第224组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67987.641
+第225组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68003.555
+第226组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67976.724
+第227组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68038.795
+第228组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67972.753
+第229组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68017.023
+第230组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68024.714
+第231组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68002.581
+第232组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68027.305
+第233组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68009.127
+第234组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67992.163
+第235组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68007.067
+第236组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67979.609
+第237组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68015.135
+第238组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67978.119
+第239组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67988.854
+第240组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68005.316
+第241组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68014.820
+第242组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67972.195
+第243组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68005.060
+第244组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67961.919
+第245组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68015.188
+第246组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67978.217
+第247组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68006.175
+第248组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67994.147
+第249组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68017.617
+第250组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68021.452
+第251组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68030.524
+第252组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68017.042
+第253组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67991.862
+第254组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68015.984
+第255组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68009.651
+第256组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68051.206
+第257组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68060.801
+第258组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68012.563
+第259组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67989.629
+第260组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68011.971
+第261组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67996.696
+第262组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67981.775
+第263组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68059.818
+第264组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68034.776
+第265组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67997.572
+第266组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68046.653
+第267组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68046.568
+第268组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68006.192
+第269组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68044.057
+第270组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68026.950
+第271组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67987.458
+第272组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68051.314
+第273组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68028.926
+第274组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67976.289
+第275组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68010.211
+第276组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67995.446
+第277组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68012.068
+第278组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68006.438
+第279组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68056.174
+第280组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68014.576
+第281组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68048.800
+第282组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68011.655
+第283组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68001.774
+第284组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68029.732
+第285组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68046.889
+第286组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68017.090
+第287组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68051.312
+第288组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68030.887
+第289组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68030.841
+第290组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68026.993
+第291组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68013.835
+第292组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68016.708
+第293组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68035.286
+第294组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68045.297
+第295组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68062.605
+第296组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68044.775
+第297组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68035.680
+第298组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68014.069
+第299组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68034.678
+第300组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68016.508
+第301组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68034.422
+第302组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68019.840
+第303组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68028.766
+第304组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68050.266
+第305组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68040.028
+第306组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68012.759
+第307组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68035.491
+第308组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68062.914
+第309组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67991.768
+第310组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68029.169
+第311组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68052.925
+第312组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68055.728
+第313组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68041.226
+第314组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68050.252
+第315组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68037.638
+第316组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68057.740
+第317组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68014.034
+第318组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68035.825
+第319组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68018.146
+第320组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68059.023
+第321组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.026, 67985.841
+第322组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68025.719
+第323组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68020.015
+第324组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68007.164
+第325组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68018.429
+第326组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68035.894
+第327组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68008.410
+第328组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68030.758
+第329组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68038.131
+第330组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68058.194
+第331组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68052.958
+第332组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68042.862
+第333组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68068.285
+第334组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68040.313
+第335组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68059.412
+第336组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 67993.840
+第337组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68029.397
+第338组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68057.841
+第339组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68009.908
+第340组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68049.529
+第341组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68027.160
+第342组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68024.463
+第343组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68015.766
+第344组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68031.997
+第345组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68018.023
+第346组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68058.128
+第347组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68033.287
+第348组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68058.407
+第349组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68078.376
+第350组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68049.644
+第351组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68058.876
+第352组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68037.057
+第353组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68061.008
+第354组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68043.906
+第355组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68083.969
+第356组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68055.678
+第357组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68011.087
+第358组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68067.818
+第359组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68030.028
+第360组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68023.027
+第361组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68046.275
+第362组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68031.724
+第363组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68061.990
+第364组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68047.184
+第365组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68058.900
+第366组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68049.501
+第367组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68043.309
+第368组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68067.014
+第369组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68100.316
+第370组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68045.213
+第371组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68098.704
+第372组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68041.356
+第373组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68052.557
+第374组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68088.081
+第375组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68070.865
+第376组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68073.038
+第377组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68072.386
+第378组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68038.946
+第379组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68077.791
+第380组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68018.289
+第381组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68080.904
+第382组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68095.893
+第383组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68078.015
+第384组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68067.696
+第385组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68057.761
+第386组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68090.170
+第387组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68072.043
+第388组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68107.663
+第389组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68032.827
+第390组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68088.421
+第391组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68078.403
+第392组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68093.413
+第393组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68085.293
+第394组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68101.996
+第395组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68049.335
+第396组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68087.644
+第397组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68101.348
+第398组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68078.484
+第399组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68080.088
+第400组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68086.298
+第401组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68027.735
+第402组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68073.217
+第403组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68056.076
+第404组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68080.396
+第405组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68098.200
+第406组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68064.795
+第407组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68083.805
+第408组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68049.238
+第409组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68078.039
+第410组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68082.228
+第411组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68100.328
+第412组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68065.796
+第413组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68078.818
+第414组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68080.816
+第415组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68115.394
+第416组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68089.001
+第417组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68083.886
+第418组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68075.352
+第419组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68091.253
+第420组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68101.216
+第421组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68090.816
+第422组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68063.399
+第423组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68114.077
+第424组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68066.813
+第425组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68065.356
+第426组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68062.110
+第427组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68081.280
+第428组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68040.176
+第429组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68086.727
+第430组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68100.427
+第431组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68082.364
+第432组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68091.512
+第433组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68092.181
+第434组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68110.346
+第435组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68072.658
+第436组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68111.757
+第437组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68107.818
+第438组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68063.911
+第439组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68087.893
+第440组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68074.362
+第441组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68107.896
+第442组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68098.517
+第443组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68110.684
+第444组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68086.274
+第445组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68098.644
+第446组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68103.594
+第447组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68063.437
+第448组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68077.645
+第449组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68084.146
+第450组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68079.716
+第451组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68093.796
+第452组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68097.513
+第453组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68045.011
+第454组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68103.825
+第455组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68079.538
+第456组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68133.744
+第457组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68080.799
+第458组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68101.937
+第459组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68065.352
+第460组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68102.545
+第461组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68094.948
+第462组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68140.707
+第463组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68059.653
+第464组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68071.010
+第465组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68070.478
+第466组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68094.967
+第467组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68106.776
+第468组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68146.514
+第469组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68102.229
+第470组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68138.620
+第471组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68115.110
+第472组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68099.978
+第473组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68136.484
+第474组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68124.710
+第475组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68089.272
+第476组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68096.774
+第477组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68113.843
+第478组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.025, 68089.722
+第479组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68142.222
+第480组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68124.375
+第481组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68132.393
+第482组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68128.605
+第483组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68110.730
+第484组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68135.089
+第485组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68119.992
+第486组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68106.950
+第487组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68116.928
+第488组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68126.852
+第489组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68119.395
+第490组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68113.985
+第491组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68161.705
+第492组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68142.410
+第493组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68114.827
+第494组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68122.305
+第495组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68141.395
+第496组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68117.224
+第497组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68116.892
+第498组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68130.537
+第499组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68122.501
+第500组数据：
+Peak Count: 1
+Peak#, Peak Pixel, Peak Power
+01, 1550.024, 68109.818
+2014_08_03 10_42_41
+2014_08_03 10_43_07
+26
